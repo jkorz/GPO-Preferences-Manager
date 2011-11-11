@@ -4,14 +4,14 @@ A simple program for exporting active directory groups and the printers associat
 
 ## Installation
 
-Simply download gpp.rb or gpp.exe and run. No dependencies required (other than ruby if not using the exe).
+Simply download gpp.exe and run. If you want to use the .rb file, you'll need the nokogiri gem. 
 
 ## Usage
 
 	C:\> gpp.exe
 	
-	or
-	
+or
+
 	C:\> ruby gpp.rb
 	
 ## Advanced usage
